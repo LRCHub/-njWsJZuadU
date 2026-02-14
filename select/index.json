@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "記憶の箱舟",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2026-02-14T16:48:23.288841Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "記憶の箱舟",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_記憶の箱舟_伊東歌詞太郎.txt"
+    }
+  ]
+}
